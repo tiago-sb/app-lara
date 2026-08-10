@@ -12,9 +12,7 @@ O sistema permite que usuários acessem sessões remotas para programar, compila
 - [Como clonar](#como-clonar)
 - [Configuração de variáveis de ambiente](#configuração-de-variáveis-de-ambiente)
 - [Rodando com Docker Compose](#rodando-com-docker-compose)
-- [Rodando cada serviço manualmente (modo dev)](#rodando-cada-serviço-manualmente-modo-dev)
 - [Portas utilizadas](#portas-utilizadas)
-- [Licença](#licença)
 
 ## Arquitetura
 
