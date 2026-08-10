@@ -1,4 +1,4 @@
-# LARA — Laboratório de Robótica Colaborativa
+# LARA
 
 Plataforma web para operação remota e colaborativa de um laboratório de robótica, desenvolvida como parte de projeto de Iniciação Científica (FAPESB) na UESB.
 
