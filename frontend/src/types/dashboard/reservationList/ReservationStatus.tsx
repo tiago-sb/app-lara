@@ -1,0 +1,1 @@
+export type ReservationStatus = "finished" | "missed" | "scheduled";

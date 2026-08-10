@@ -1,0 +1,1 @@
+export type CameraStatus = "connecting" | "connected" | "error";

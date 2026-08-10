@@ -1,0 +1,1 @@
+export type DatetimeField = "date" | "hour" | "minute";
